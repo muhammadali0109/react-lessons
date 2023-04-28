@@ -1,12 +1,12 @@
-import ComponentB from './components/ComponentB';
 
 import './App.css';
+import Axios from './components/Axios';
 
 function App() {
   return (
    <div>
-    <ComponentB/>
-   </div>  
+    <Axios />
+   </div> 
   )
 }
 
