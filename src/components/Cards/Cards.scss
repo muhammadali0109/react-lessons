@@ -1,0 +1,9 @@
+.card{
+    max-width: 350px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card img {
+    width: 100%;
+}
